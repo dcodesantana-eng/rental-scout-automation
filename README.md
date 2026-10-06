@@ -1,4 +1,4 @@
-# AI Rental Scout — V2
+# Rental Scout | n8n
 
 **Turning rental alerts into a structured property shortlist with n8n and JavaScript.**
 
